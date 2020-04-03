@@ -1,4 +1,5 @@
 # Winner's Circle Trivia Game App
+![Trivia Game](https://github.com/diautzi/React-Mod4-Project/blob/master/Trivia%20Game.png)
 
 Generates up to a 4-players game with 20 random questions. Fetches from Open Trivia Database API & posts correct answer & displays winner at the end of the game. 
 
@@ -32,7 +33,7 @@ $npm start
 The app will run on http://localhost:3000
 
 ## Demo
-[Trivia Game Demo](demo.mov)
+[Trivia Game Demo](https://github.com/diautzi/React-Mod4-Project/blob/master/demo.mov)
 
 
 
