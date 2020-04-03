@@ -25,7 +25,7 @@ $rails s
 ```
 The server will start on http://localhost:3000
 
-- In your terminal, **cd ..** and then **cd frontend** and run the following commands:
+- In your terminal **cd ..** back into apps root folder, and then **cd frontend** into the frontend folder to start and run the app:
 ```
 $npm install
 $npm start
