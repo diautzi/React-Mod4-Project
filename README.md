@@ -22,15 +22,15 @@ $bundle install
 $rails db:create
 $rails db:migrate
 $rails s 
-The server will start on http://localhost:3000
 ```
+The server will start on http://localhost:3000
 
 - In your terminal, **cd ..** and then **cd frontend** and run the following commands:
 ```
 $npm install
 $npm start
 ```
-The app will run on http://localhost:3000
+The app will run on http://localhost:3001
 
 ## Demo
 [Trivia Game Demo](https://github.com/diautzi/React-Mod4-Project/blob/master/demo.mov)
