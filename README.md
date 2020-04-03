@@ -34,7 +34,8 @@ The app will run on http://localhost:3001
 
 ## Demo
 [Trivia Game Demo](https://github.com/diautzi/React-Mod4-Project/blob/master/demo.mov)
-**Spoiler Alert** In my game demo, the score is tied, so that's why we have 2 winners :)
+
+- **Spoiler Alert:** In my game demo, the score is tied, so that's why we have 2 winners :)
 
 
 
