@@ -32,5 +32,7 @@ $npm start
 The app will run on http://localhost:3000
 
 ## Demo
+[Trivia Game Demo](demo.mov)
+
 
 
